@@ -2,7 +2,7 @@
 - 👀 I’m interested in Discord's API.
 - 🌱 I’m currently learning Python and JavaScript.
 - 💞️ I’m looking to collaborate on not really anything.
-- 📫 How to reach me add me on Discord with : Asicalug#7189.
+- 📫 How to reach me add me on Discord with : Asicalug#0001.
 
 <!---
 Asicalug/Asicalug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
