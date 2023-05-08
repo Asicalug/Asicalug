@@ -3,7 +3,7 @@
   I am a Hobby Developper and a Minecraft <i>Professional</i>
   <br />
   <br />
-  <a href="#connect-with-me"><img src="https://lanyard.cnrad.dev/api/1080643375960707092"></a>
+  <a href="https://discord.com/users/1080643375960707092/"><img src="https://lanyard.cnrad.dev/api/1080643375960707092"></a>
 </h3>
 
 ## About Me
