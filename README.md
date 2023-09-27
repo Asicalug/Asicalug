@@ -23,4 +23,4 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Asicalug&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=600)](https://git.io/streak-stats)
 <br />
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asicalug&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
-![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TBHGodPro&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asicalug&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
